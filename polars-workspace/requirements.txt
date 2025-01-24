@@ -4,3 +4,5 @@ fastexcel
 pyarrow
 xlsxwriter
 xlsx2csv
+numpy
+pandas

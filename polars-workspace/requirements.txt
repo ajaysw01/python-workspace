@@ -1,0 +1,6 @@
+polars
+openpyxl
+fastexcel
+pyarrow
+xlsxwriter
+xlsx2csv
